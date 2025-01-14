@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cocktail-frontend/static/css/main.260f52eb.css",
+    "main.js": "/cocktail-frontend/static/js/main.e7232861.js",
+    "index.html": "/cocktail-frontend/index.html",
+    "main.260f52eb.css.map": "/cocktail-frontend/static/css/main.260f52eb.css.map",
+    "main.e7232861.js.map": "/cocktail-frontend/static/js/main.e7232861.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260f52eb.css",
+    "static/js/main.e7232861.js"
+  ]
+}
